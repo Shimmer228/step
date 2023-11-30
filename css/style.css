@@ -206,6 +206,7 @@ button {
 }
 .page-semi-title{
     color: #0F8277;
+    margin-top: 80px;
     font-size: 20px;
 }
 .program-forms{
@@ -330,12 +331,12 @@ margin-top: 5px;
     font-size: 40px;
     text-align: center;
 }
-.cooperate-imgs img{
+/* .cooperate-imgs img{
     max-width: 178px;
     min-width: 110px;
     max-height: 66px;
     min-height: 30px;
-}
+} */
 .cooperate-imgs .img0 {
     width: 178px;
     height: 36px;
@@ -750,10 +751,10 @@ font-size: 40px;
     align-content: end;
 }
 .social-content ul{
-display: flex;
-margin: 0;
-gap: 24px;
-padding-left: 150px;
+    display: flex;
+    margin: 0;
+    gap: 24px;
+    padding-left: 150px;
 }
 .social-content img{
     width: 32px;
